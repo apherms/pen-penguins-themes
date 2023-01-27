@@ -1,0 +1,32 @@
+{
+    "name": "pen-penguin-theme",
+    "displayName": "pen-penguin-theme",
+    "description": "OvO pen pen",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "pen-penguin-themes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pen-penguin-themes-color-theme.json"
+            }
+        ]
+    },
+
+    "icon": "icons/pen2.gif",
+    "author": {
+        "name": "aphril",
+        "email": "3aphril@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/apherms/pen-penguins-themes.git",
+        "type": "git"
+    },
+    "publisher": "pen-pen-themes"
+}
